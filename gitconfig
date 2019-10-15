@@ -1,0 +1,15 @@
+[alias]
+    a = add
+    d = diff
+    b = branch
+    st = status
+    cm = commit
+[http]
+    proxy=http://localhost:3000
+[https]
+    proxy=https://localhost:3000
+[user]
+    email = huyu.sakuya4645@gmail.com
+    name = huyu
+[core]
+    editor = nvim
