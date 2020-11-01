@@ -20,6 +20,9 @@
 2. 管理者権限でバッチファイルを実行する
 3. \[Win] + \[R] でファイル名を指定して実行を開き，`gpedit.msc` を実行する
 
+参考
+* [「Windows 10 Home」でローカルグループポリシーエディターを使用する方法](https://www.japan-secure.com/entry/how-to-use-local-group-policy-editor-in-windows-10-home.html)
+
 #### Win32 の長いパスを有効にする
 
 1. グループポリシーの編集を開く
